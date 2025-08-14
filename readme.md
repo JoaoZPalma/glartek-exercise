@@ -1,4 +1,4 @@
-# 🚀 Project Setup & Run Guide
+# Project Setup & Run Guide
 
 This project contains:  
 - **Frontend** (Vite + React)  
@@ -10,7 +10,7 @@ Follow the steps below to build and run the system.
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 - **Docker** & **Docker Compose** installed  
 - **Node.js** & **npm** installed (for local package installation)  
 - **Git** installed  
