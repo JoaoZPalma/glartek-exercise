@@ -7,6 +7,7 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 
 # Install dependencies
+RUN npm install --save-dev vite
 RUN npm install
 
 # Copy frontend source code
