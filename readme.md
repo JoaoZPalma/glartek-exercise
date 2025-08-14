@@ -72,6 +72,7 @@ Follow the steps below to build and run the system.
      ```json
      {"example": "cool"}
      ```
+   * Check if the CRON is working via Backend logs or the service receiver console.
 
 
 ## 📝 Notes
