@@ -63,7 +63,7 @@ Follow the steps below to build and run the system.
    * Set the **URI** to:
 
      ```
-     https://YOUR-IP-ADDRESS:4000/api/task
+     http://YOUR-IP-ADDRESS:4000/api/task
      ```
 
      *(Replace `YOUR-IP-ADDRESS` with your machine’s IP, on Linux: `ip a | grep inet`, on Windows: `ipconfig`.)*
